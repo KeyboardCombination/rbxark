@@ -1,4 +1,4 @@
-module github.com/anaminus/rbxark
+module github.com/KeyboardCombination/rbxark
 
 go 1.13
 
